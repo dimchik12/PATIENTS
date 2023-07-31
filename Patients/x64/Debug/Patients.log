@@ -1,0 +1,5 @@
+﻿  My_fun_for_MYSQL.cpp
+  Patients.cpp
+  Создание кода...
+C:\Users\Дмитрий\Downloads\Patients-master\Patients\My_fun_for_MYSQL.cpp(104): warning C4172: возвращение адреса локальной или временной переменной : a
+  Patients.vcxproj -> C:\Users\Дмитрий\Downloads\Patients-master\x64\Debug\Patients.exe
